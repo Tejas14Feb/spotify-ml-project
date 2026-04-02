@@ -1,4 +1,4 @@
-# Spotify Hit Predictor — End-to-End ML Pipeline
+# Spotify Hit Predictor: End-to-End ML Pipeline
 
 > Predict whether a song will be a chart hit based on its audio features.  
 > Built with Python, Pandas, Scikit-learn, XGBoost, and Plotly Dash.
@@ -30,7 +30,7 @@ This is a **binary classification** problem with a full storytelling narrative:
 
 ## Dataset
 
-**Spotify Tracks Dataset** — Kaggle  
+**Spotify Tracks Dataset**: Kaggle  
 URL: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset  
 Size: ~114,000 tracks with 21 audio features  
 Free, no login required via Kaggle API
@@ -39,7 +39,7 @@ Audio features include:
 - `danceability`, `energy`, `valence`, `tempo`, `loudness`
 - `speechiness`, `acousticness`, `instrumentalness`, `liveness`
 - `duration_ms`, `explicit`, `key`, `mode`, `time_signature`
-- `popularity` (0–100) — our target variable
+- `popularity` (0–100) our target variable
 
 ---
 
